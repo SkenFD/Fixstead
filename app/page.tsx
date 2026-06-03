@@ -18,12 +18,12 @@ const services = [
 ];
 
 const prices = [
-  ["Lawn mowing", "from GBP 25"],
-  ["Pressure washing", "from GBP 60"],
-  ["Bin cleaning", "from GBP 8"],
-  ["Furniture assembly", "from GBP 35"],
+  ["Lawn mowing", "from GBP 20"],
+  ["Pressure washing", "from GBP 50"],
+  ["Bin cleaning", "from GBP 7"],
+  ["Furniture assembly", "from GBP 30"],
   ["Fence repair", "quoted after photos"],
-  ["Small repairs", "from GBP 30"]
+  ["Small repairs", "from GBP 20"]
 ];
 
 const areas = [
