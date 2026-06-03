@@ -204,24 +204,6 @@ export default function Home() {
         </p>
       </section>
 
-      <section className="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
-        <div className="mb-8">
-          <p className="text-sm font-bold uppercase tracking-widest text-fixstead-green">
-            Gallery
-          </p>
-          <h2 className="mt-2 text-3xl font-black">Recent work placeholders</h2>
-        </div>
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {["Fresh cut lawn", "Clean patio", "Repaired fence", "New laminate", "Flat-pack build", "Tidy garden"].map((label) => (
-            <div key={label} className="aspect-[4/3] rounded border border-white/10 bg-[linear-gradient(135deg,rgba(34,197,94,0.2),rgba(255,255,255,0.04))] p-4">
-              <div className="flex h-full items-end rounded border border-dashed border-white/20 p-4">
-                <span className="font-bold">{label}</span>
-              </div>
-            </div>
-          ))}
-        </div>
-      </section>
-
       <section className="bg-white/[0.035]">
         <div className="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
           <p className="text-sm font-bold uppercase tracking-widest text-fixstead-green">
