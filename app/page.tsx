@@ -12,7 +12,6 @@ const services = [
   "Fence repair",
   "Laminate flooring installation",
   "Furniture assembly",
-  "Bin cleaning",
   "Garden maintenance",
   "Small home repairs"
 ];
@@ -20,7 +19,6 @@ const services = [
 const prices = [
   ["Lawn mowing", "from GBP 20"],
   ["Pressure washing", "from GBP 50"],
-  ["Bin cleaning", "from GBP 7"],
   ["Furniture assembly", "from GBP 30"],
   ["Fence repair", "quoted after photos"],
   ["Small repairs", "from GBP 20"]
