@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Fixstead | Home & Outdoor Services in Coventry",
   description:
-    "Fixstead provides lawn mowing, pressure washing, fence repair, flooring, furniture assembly, bin cleaning, garden maintenance and small home repairs in Coventry.",
+    "Fixstead provides lawn mowing, pressure washing, fence repair, flooring, furniture assembly, garden maintenance and small home repairs in Coventry.",
   metadataBase: new URL("https://fixstead.co.uk"),
   openGraph: {
     title: "Fixstead | Home & Outdoor Services",
